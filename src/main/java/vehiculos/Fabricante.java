@@ -10,7 +10,7 @@ public class Fabricante {
         this.nombre = nombre;
         this.pais = pais;
         fabricantes.add(this);
-        //this.pais.cantidadVendidos++;
+
     }
 
     public Fabricante() {
